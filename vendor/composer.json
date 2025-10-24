@@ -1,0 +1,12 @@
+{
+  "name": "saveeat/app",
+  "description": "OOP PHP lab assignment",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {
+    "phpmailer/phpmailer": "^6.9"
+  }
+}
